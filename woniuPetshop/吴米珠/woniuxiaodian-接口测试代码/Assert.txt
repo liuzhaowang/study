@@ -1,5 +1,0 @@
-*** Keywords ***
-assert
-    [Arguments]    ${expect}    ${actual}    ${number}
-    Run Keyword If    "${expect}"== "${actual}"    log    ${number}-pass
-    ...    ELSE    log    ${number}-fail
