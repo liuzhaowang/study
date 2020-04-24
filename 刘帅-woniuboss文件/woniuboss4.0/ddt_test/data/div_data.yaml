@@ -1,0 +1,16 @@
+8 divided 4 is 2:
+  expected: 2
+  num1: 8
+  num2: 4
+10 divided 5 is 2:
+  expected: 2
+  num1: 10
+  num2: 5
+0 divided 3 is 0:
+  expected: 0
+  num1: 0
+  num2: 3
+10 divided -2.5 is -4.0:
+  expected: -4.0
+  num1: 10
+  num2: -2.5
