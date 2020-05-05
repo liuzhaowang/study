@@ -14,6 +14,8 @@
 # 1.类全名；2.类方法的列表：类名，参数列表，参数说明，返回值说明
 import time
 
+from selenium.webdriver.support.wait import WebDriverWait
+
 from util.utility import Utility
 
 class Service:
@@ -105,6 +107,15 @@ class Service:
 		driver.implicitly_wait(6)
 		driver.maximize_window()
 		return driver
+	@classmethod
+	def wait_present(cls,driver,how,ele):
+		from selenium.common.exceptions import NoSuchElementException
+		try:
+			WebDriverWait(driver,5,1).until(lambda driver :driver.find_element(by=how,value=ele) )
+		except NoSuchElementException as e:
+			return False
+		return True
+
 
 if __name__ == '__main__':
 	from selenium import webdriver

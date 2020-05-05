@@ -51,7 +51,6 @@ class TrainsourceTest(unittest.TestCase):
 
 
     @parameterized.expand(train_worker)
-    @unittest.skip
     def test_train_query_worker(self,worker_name,expect):
         time.sleep(1)
         self.train.select_worker(worker_name)
@@ -67,7 +66,6 @@ class TrainsourceTest(unittest.TestCase):
         self.assertEqual(actual, expect)
 
     @parameterized.expand(train_status)
-    @unittest.skip
     def test_train_query_status(self,status, expect):
         self.driver.refresh()
         time.sleep(3)
@@ -96,7 +94,6 @@ class TrainsourceTest(unittest.TestCase):
 
         self.assertEqual(actual,expect)
     @parameterized.expand(train_time)
-    @unittest.skip
     def test_train_query_time(self,stime,etime,expect):
         self.train.send_start_time(stime)
         self.train.send_end_time(etime)
@@ -113,7 +110,6 @@ class TrainsourceTest(unittest.TestCase):
             actual='fail'
         self.assertEqual(actual,expect)
     @parameterized.expand(train_keywords)
-    @unittest.skip
     def test_train_query_keywords(self,keywords,expect):
         self.train.send_keywords(keywords)
         self.train.click_search()

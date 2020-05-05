@@ -62,6 +62,7 @@ class TrainSource:
     def send_end_time(self, etime):
         date = self.driver.find_element_by_id('date2')
         Service.send_input(date, etime)
+
     def send_keywords(self,keywords):
         input_cusinfo=self.driver.find_element_by_xpath\
             ('//div[@id="content"]/div[2]/div/input[3]')

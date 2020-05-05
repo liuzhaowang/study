@@ -2474,212 +2474,349 @@ JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, lin
 JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
 JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
 JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
-r: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-1587821963075	Marionette	INFO	Listening on port 43757
-1587821963321	Marionette	WARN	TLS certificate errors will be ignored for this session
-1587822205964	Marionette	INFO	Stopped listening on port 43757
-[Parent 38740, Gecko_IOThread] WARNING: pipe error: 232: file Z:/task_1585933993/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 514
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: "getApplied@resource://devtools/server/actors/styles.js:587:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
 
-###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+console.error: (new Error("Protocol error (unknownError): node is null", "resource://devtools/shared/protocol/Front.js", 294))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
 
-1587822618641	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.m3wp94rEdgC8"
-1587822628004	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
-1587822628837	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1587822628837	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1587822628837	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1587822628837	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-1587822635813	Marionette	INFO	Listening on port 44573
-1587822636238	Marionette	WARN	TLS certificate errors will be ignored for this session
-1587822962797	Marionette	INFO	Stopped listening on port 44573
-ram Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.et1VD7ayy0xk"
-1587822965796	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
-1587822966846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1587822966846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1587822966847	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1587822966847	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-1587822979869	Marionette	INFO	Listening on port 45110
-1587822980247	Marionette	WARN	TLS certificate errors will be ignored for this session
-1587823224850	Marionette	INFO	Stopped listening on port 45110
-ram Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.1rMgnWlGDjbq"
-1587823229100	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
-1587823230250	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1587823230250	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1587823230251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1587823230251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-1587823234865	Marionette	INFO	Listening on port 45436
-1587823235610	Marionette	WARN	TLS certificate errors will be ignored for this session
-1587823239292	Marionette	INFO	Stopped listening on port 45436
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 925))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:925:7
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1638:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
 
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+console.error: (new Error("Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 29))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2243))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2243))
+JavaScript error: resource://devtools/client/inspector/inspector.js, line 1547: TypeError: targetFront is null
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+JavaScript error: resource://devtools/shared/fronts/node.js, line 404: TypeError: this.parentFront is null
+JavaScript error: resource://devtools/shared/fronts/node.js, line 404: TypeError: this.parentFront is null
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+console.error: "Won't load source editor as the style sheet has already been removed from Style Editor."
+console.error: (new TypeError("contents is null", "resource://devtools/client/styleeditor/original-source.js", 53))
+console.error: (new TypeError("contents is null", "resource://devtools/client/styleeditor/original-source.js", 53))
+console.error: "Won't load source editor as the style sheet has already been removed from Style Editor."
+console.error: (new TypeError("contents is null", "resource://devtools/client/styleeditor/original-source.js", 53))
+console.error: (new TypeError("contents is null", "resource://devtools/client/styleeditor/original-source.js", 53))
+console.error: "Error while calling actor 'stylesheet's method 'getMediaRules'" "can't access dead object"
+console.error: "get ownerNode@resource://devtools/server/actors/stylesheets.js:272:5\ngetCSSRules@resource://devtools/server/actors/stylesheets.js:381:9\n_getMediaRules@resource://devtools/server/actors/stylesheets.js:525:17\ngetMediaRules@resource://devtools/server/actors/stylesheets.js:515:17\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (unknownError): can't access dead object", "resource://devtools/shared/protocol/Front.js", 294))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.47.132:8080"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.47.132:8080"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610015,name=PLayerTransaction::Msg_ClearCachedResources) Channel error: cannot send/recv
 
 
-###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
-
-1587823249231	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.7ccDAq3q1yHT"
-1587823249923	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
-1587823251880	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1587823251880	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1587823251880	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1587823251880	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-1587823255006	Marionette	INFO	Listening on port 45501
-1587823255281	Marionette	WARN	TLS certificate errors will be ignored for this session
-JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1587823354537	Marionette	INFO	Stopped listening on port 45501
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+###!!! [Child][MessageChannel] Error: (msgtype=0x9F0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
 
 
-###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+###!!! [Child][MessageChannel] Error: (msgtype=0x610006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
 
-valid extension permission: networkStatus
-1587823330852	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1587823330852	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1587823330853	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1587823330853	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-[Parent 37568, Gecko_IOThread] WARNING: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
-[Parent 37568, Gecko_IOThread] WARNING: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
-1587823336815	Marionette	INFO	Listening on port 45640
-1587823337107	Marionette	WARN	TLS certificate errors will be ignored for this session
-1587823352871	Marionette	INFO	Stopped listening on port 45640
 
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+###!!! [Child][MessageChannel] Error: (msgtype=0x610006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
 
-1587823427855	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.CfRp9v4WFb2I"
-1587823431231	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
-1587823432038	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1587823432038	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1587823432038	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1587823432038	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-1587823436327	Marionette	INFO	Listening on port 45807
-1587823436575	Marionette	WARN	TLS certificate errors will be ignored for this session
-JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
-JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
-1587823748353	Marionette	INFO	Stopped listening on port 45807
-ram Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.EZ4o8sRzzVmx"
-1587823711222	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
-1587823713779	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1587823713779	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1587823713780	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1587823713780	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-1587823725487	Marionette	INFO	Listening on port 46107
-1587823725965	Marionette	WARN	TLS certificate errors will be ignored for this session
 
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+###!!! [Child][MessageChannel] Error: (msgtype=0x9F0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
 
-1587823751934	Marionette	INFO	Stopped listening on port 46107
 
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+###!!! [Child][MessageChannel] Error: (msgtype=0x610006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
 
-llout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
-1587823749015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1587823749015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1587823749015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1587823749015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-1587823752687	Marionette	INFO	Listening on port 46211
-1587823752945	Marionette	WARN	TLS certificate errors will be ignored for this session
-console.error: services.settings: 
-  Message: TypeError: NetworkError when attempting to fetch resource.
-console.error: services.settings: 
-  Message: TypeError: NetworkError when attempting to fetch resource.
-  Stack:
-    [13]</timedFetch/<@resource://services-common/kinto-http-client.js:2899:12
-timedFetch@resource://services-common/kinto-http-client.js:2869:12
-request@resource://services-common/kinto-http-client.js:2980:33
-execute@resource://services-common/kinto-http-client.js:813:36
-getData@resource://services-common/kinto-http-client.js:2065:27
-pullMetadata@resource://services-common/kinto-offline-client.js:2229:41
-maybeSync@resource://services-settings/RemoteSettingsClient.jsm:507:52
 
-console.error: services.settings: 
-  Message: NetworkOfflineError: Network is offline
-  Stack:
-    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:119:5
-maybeSync@resource://services-settings/RemoteSettingsClient.jsm:439:15
-remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:314:22
-observe@resource://gre/modules/AsyncShutdown.jsm:551:16
+###!!! [Child][MessageChannel] Error: (msgtype=0x610006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
 
-console.error: services.settings: 
-  Message: NetworkOfflineError: Network is offline
-  Stack:
-    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:119:5
-maybeSync@resource://services-settings/RemoteSettingsClient.jsm:439:15
-remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:314:22
-observe@resource://gre/modules/AsyncShutdown.jsm:551:16
 
-console.error: services.settings: 
-  Message: NetworkOfflineError: Network is offline
-  Stack:
-    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:119:5
-maybeSync@resource://services-settings/RemoteSettingsClient.jsm:439:15
-remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:314:22
-observe@resource://gre/modules/AsyncShutdown.jsm:551:16
+###!!! [Child][MessageChannel] Error: (msgtype=0x610006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
 
-console.error: services.settings: 
-  Message: NetworkOfflineError: Network is offline
-  Stack:
-    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:119:5
-maybeSync@resource://services-settings/RemoteSettingsClient.jsm:439:15
-remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:314:22
-observe@resource://gre/modules/AsyncShutdown.jsm:551:16
 
-console.error: services.settings: 
-  Message: NetworkOfflineError: Network is offline
-  Stack:
-    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:119:5
-maybeSync@resource://services-settings/RemoteSettingsClient.jsm:439:15
-remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:314:22
-observe@resource://gre/modules/AsyncShutdown.jsm:551:16
+###!!! [Child][MessageChannel] Error: (msgtype=0x9F0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
 
-1587824607196	Marionette	INFO	Stopped listening on port 46211
-'t find profile directory.
-JavaScript error: , line 0: uncaught exception: 2147500036
-JavaScript error: , line 0: uncaught exception: 2147500036
-JavaScript error: , line 0: uncaught exception: 2147500036
-[Parent 37992, Gecko_IOThread] WARNING: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
-console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 681))
 
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+###!!! [Child][MessageChannel] Error: (msgtype=0x610006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
 
-1587823912315	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.hC9BmJWL02uI"
-1587823912994	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
-1587823913804	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1587823913804	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1587823913805	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1587823913805	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-1587823917076	Marionette	INFO	Listening on port 46561
-1587823917367	Marionette	WARN	TLS certificate errors will be ignored for this session
-[Parent 35968, Gecko_IOThread] WARNING: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
-[Parent 35968, Gecko_IOThread] WARNING: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
-1587823971567	Marionette	INFO	Stopped listening on port 46561
 
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+###!!! [Child][MessageChannel] Error: (msgtype=0x9F0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
 
-1587824339401	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.VjezQBHSbLhy"
-1587824343021	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
-1587824343908	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1587824343908	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1587824343908	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1587824343908	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-1587824353256	Marionette	INFO	Listening on port 47197
-1587824353625	Marionette	WARN	TLS certificate errors will be ignored for this session
-1587824378854	Marionette	INFO	Stopped listening on port 47197
-1587824429682	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.MHH04sTV54Bm"
-1587824431771	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
-1587824432791	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1587824432791	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9F0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9F0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9F0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9F0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9F0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x61001E,name=PLayerTransaction::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xD,name=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x34001A,name=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610015,name=PLayerTransaction::Msg_ClearCachedResources) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x61001E,name=PLayerTransaction::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x34001A,name=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610015,name=PLayerTransaction::Msg_ClearCachedResources) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x61001E,name=PLayerTransaction::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x34001A,name=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610015,name=PLayerTransaction::Msg_ClearCachedResources) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x61001E,name=PLayerTransaction::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x34001A,name=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610015,name=PLayerTransaction::Msg_ClearCachedResources) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x61001E,name=PLayerTransaction::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x34001A,name=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610015,name=PLayerTransaction::Msg_ClearCachedResources) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x61001E,name=PLayerTransaction::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x34001A,name=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610015,name=PLayerTransaction::Msg_ClearCachedResources) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x61001E,name=PLayerTransaction::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x34001A,name=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610015,name=PLayerTransaction::Msg_ClearCachedResources) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x61001E,name=PLayerTransaction::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x34001A,name=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610015,name=PLayerTransaction::Msg_ClearCachedResources) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x61001E,name=PLayerTransaction::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x34001A,name=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+ding manifest: Invalid extension permission: telemetry
 1587824432791	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
 1587824432792	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
@@ -3161,3 +3298,1439 @@ JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't fin
 1587864017102	Marionette	INFO	Listening on port 23664
 1587864017588	Marionette	WARN	TLS certificate errors will be ignored for this session
 1587866378150	Marionette	INFO	Stopped listening on port 23664
+1587888043160	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.E8woFe8Ha78K"
+1587888044023	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587888044654	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587888044654	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587888044654	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587888044654	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587888047707	Marionette	INFO	Listening on port 46027
+1587888048072	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587888184537	Marionette	INFO	Stopped listening on port 46027
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1587898340001	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.DnGV8PfPr5GJ"
+1587898345076	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587898346421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587898346421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587898346421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587898346421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587898354031	Marionette	INFO	Listening on port 57722
+1587898354288	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587898372251	Marionette	INFO	Stopped listening on port 57722
+1587898556362	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.lZ6vjINPs3ad"
+1587898558340	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587898558973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587898558973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587898558973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587898558974	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587898562137	Marionette	INFO	Listening on port 57961
+1587898562523	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587898578174	Marionette	INFO	Stopped listening on port 57961
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1587898663073	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.SYQylpiVLql0"
+1587898664965	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587898665634	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587898665635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587898665635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587898665635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587898668437	Marionette	INFO	Listening on port 58138
+1587898668510	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587898871082	Marionette	INFO	Stopped listening on port 58138
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.q5NMD1O4DUnj"
+1587898876093	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587898876909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587898876909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587898876909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587898876909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587898879783	Marionette	INFO	Listening on port 58365
+1587898879913	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 36572, Gecko_IOThread] WARNING: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+1587898911280	Marionette	INFO	Stopped listening on port 58365
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1587898941968	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.uItIKzrOmlBJ"
+1587898942546	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587898943168	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587898943168	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587898943168	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587898943168	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587898945743	Marionette	INFO	Listening on port 58496
+1587898945857	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587898950527	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587898975785	Marionette	INFO	Stopped listening on port 58496
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1587898983473	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.xS0J7LWkxfUF"
+1587898984022	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587898984684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587898984684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587898984684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587898984684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587898987354	Marionette	INFO	Listening on port 58591
+1587898987814	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587899018372	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.LRt4P5q6Pqst"
+1587899018985	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587899019654	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587899019654	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587899019655	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587899019655	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587899022354	Marionette	INFO	Listening on port 58665
+1587899022700	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587899027287	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1587899038326	Marionette	INFO	Stopped listening on port 58665
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1587899043378	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.Ybq2ljONf7EU"
+1587899043986	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587899044700	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587899044700	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587899044700	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587899044700	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587899047382	Marionette	INFO	Listening on port 58742
+1587899047696	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587899052260	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1587899135758	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.03AvSvEMVGql"
+1587899136378	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587899137299	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587899137300	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587899137300	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587899137300	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587899140113	Marionette	INFO	Listening on port 58881
+1587899140180	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587899183259	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.DGIce7ndSvoI"
+1587899183910	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587899185055	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587899185056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587899185056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587899185056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587899188299	Marionette	INFO	Listening on port 58985
+1587899188756	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 2128, Gecko_IOThread] WARNING: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+1587899199136	Marionette	INFO	Stopped listening on port 58985
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1587978852395	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.hHIPFNhzZHpC"
+1587978857659	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587978858763	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587978858763	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587978858763	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587978858763	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Parent 28712, Gecko_IOThread] WARNING: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+1587978864620	Marionette	INFO	Listening on port 57336
+1587978865032	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2243))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2243))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:944:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (unknownError): node is null", "resource://devtools/shared/protocol/Front.js", 294))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 925))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:925:7
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1638:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+console.error: (new Error("Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 29))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2243))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2243))
+JavaScript error: resource://devtools/client/inspector/inspector.js, line 1547: TypeError: targetFront is null
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+ram Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.rdcLAYupPE1w"
+1587979237666	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587979238484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587979238484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587979238485	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587979238485	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Parent 11180, Gecko_IOThread] WARNING: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+1587979241705	Marionette	INFO	Listening on port 57923
+1587979242172	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587979452223	Marionette	INFO	Stopped listening on port 57923
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.4u5g8KsWTsd8"
+1587979452489	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587979453461	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587979453461	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587979453461	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587979453461	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587979456136	Marionette	INFO	Listening on port 58185
+1587979456624	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587979472038	Marionette	INFO	Stopped listening on port 58185
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1587979819786	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.ZwE5CNytcg2P"
+1587979820335	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587979820978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587979820978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587979820978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587979820979	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587979824047	Marionette	INFO	Listening on port 58561
+1587979824101	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587979978310	Marionette	INFO	Stopped listening on port 58561
+ram Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.fGtGJeMs0iH2"
+1587979979919	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587979980765	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587979980765	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587979980765	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587979980765	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587979983459	Marionette	INFO	Listening on port 58756
+1587979983955	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 27496, Gecko_IOThread] WARNING: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+1587980201729	Marionette	INFO	Stopped listening on port 58756
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x5D0005,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+n 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587980085077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587980085077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587980085077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587980085077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587980087915	Marionette	INFO	Listening on port 58910
+1587980088338	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,632)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 632
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,632)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 632
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+1587980088965	Marionette	WARN	Problem pretty printing:: out of memory
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+JavaScript error: chrome://marionette/content/event.js, line 199: uncaught exception: out of memory
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,632)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 632
+out of memory: 0x0000000000001000 bytes requested
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+1587980201397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.HvCHYeONkqpI"
+1587980203437	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587980204221	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587980204222	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587980204222	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587980204222	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587980207101	Marionette	INFO	Listening on port 59058
+1587980207551	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587980343900	Marionette	INFO	Stopped listening on port 59058
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1587980440260	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.Jp4vDWx7rP8h"
+1587980440814	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587980441580	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587980441580	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587980441580	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587980441581	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587980444042	Marionette	INFO	Listening on port 59326
+1587980444232	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 14576, Gecko_IOThread] WARNING: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+1587980456555	Marionette	INFO	Stopped listening on port 59326
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1587980493502	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.SZHNruQYPKGR"
+1587980494109	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587980495160	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587980495160	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587980495160	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587980495161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587980498430	Marionette	INFO	Listening on port 59435
+1587980498492	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587980595093	Marionette	INFO	Stopped listening on port 59435
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.JMla8siVWZu7"
+1587980555218	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587980556205	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587980556205	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587980556206	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587980556206	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587980562780	Marionette	INFO	Listening on port 59553
+1587980562834	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to create a D3D11 content device: 0x8007000e
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+1587980563021	addons.xpi	WARN	Exception running bootstrap method shutdown on amazondotcn@search.mozilla.org: out of memory
+1587980563022	addons.xpi	WARN	Exception running bootstrap method shutdown on default-theme@mozilla.org: out of memory
+1587980563022	addons.xpi	WARN	Exception running bootstrap method shutdown on ddg@search.mozilla.org: out of memory
+1587980563023	addons.xpi	WARN	Exception running bootstrap method shutdown on bing@search.mozilla.org: out of memory
+1587980563023	addons.xpi	WARN	Exception running bootstrap method shutdown on baidu@search.mozilla.org: out of memory
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+1587980563638	Marionette	ERROR	[18] No reply from Marionette:Register
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 20992, Gecko_IOThread] WARNING: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 20992, Gecko_IOThread] WARNING: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+1587980564122	Marionette	INFO	Stopped listening on port 59553
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1587980618467	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.HW5rIkLINRiC"
+1587980620313	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587980621135	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587980621135	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587980621135	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587980621135	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587980624111	Marionette	INFO	Listening on port 59651
+1587980624144	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+1587981157033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.p56DXqQ1gZqq"
+1587981159198	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587981160175	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587981160175	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587981160175	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587981160175	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587981162953	Marionette	INFO	Listening on port 60159
+1587981163129	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9820, Gecko_IOThread] WARNING: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+1587981200908	Marionette	INFO	Stopped listening on port 60159
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587981200359	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587981200359	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587981200359	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587981200359	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587981203350	Marionette	INFO	Listening on port 60260
+1587981203849	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 35972, Gecko_IOThread] WARNING: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+1587981337638	Marionette	INFO	Stopped listening on port 60260
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.bjOCMS4r4lg1"
+1587981305986	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587981309440	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587981309441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587981309441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587981309441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587981314208	Marionette	INFO	Listening on port 60426
+1587981314706	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+Marionette threw an error: <unprintable error>
+1587981322007	Marionette	INFO	Stopped listening on port 60426
+1587981328865	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.RiXAz20myKGL"
+1587981330921	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587981331614	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587981331614	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587981331614	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587981331614	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587981334811	Marionette	INFO	Listening on port 60491
+1587981335013	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+out of memory: 0x0000000000001000 bytes requested
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+out of memory: 0x0000000000001000 bytes requested
+1587981353890	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.STCRmGXNbkCq"
+1587981354472	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587981355117	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587981355117	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587981355117	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587981355117	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587981357760	Marionette	INFO	Listening on port 60565
+1587981357785	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5300, Gecko_IOThread] WARNING: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1587981430543	Marionette	INFO	Stopped listening on port 60565
+
+###!!! [Child][RunMessage] Error: Channel closing: too late1587981430776	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587981431462	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587981431462	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587981431462	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587981431462	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587981434240	Marionette	INFO	Listening on port 60695
+1587981434300	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12048, Gecko_IOThread] WARNING: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+1587982006651	Marionette	INFO	Stopped listening on port 60695
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587981772836	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Parent 24316, Gecko_IOThread] WARNING: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+1587981775788	Marionette	INFO	Listening on port 61044
+1587981776041	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: chrome://marionette/content/event.js, line 213: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[Parent 24316, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[Parent 24316, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file Z:/task_1585933993/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 684
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+JavaScript error: , line 0: uncaught exception: out of memory
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+out of memory: 0x000000000003F401 bytes requested
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+JavaScript error: , line 0: uncaught exception: out of memory
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+JavaScript error: , line 0: uncaught exception: out of memory
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+console.error: "Could not write session state file " (new DataCloneError("The object could not be cloned.", (void 0), 312)) "postMessage@resource://gre/modules/PromiseWorker.jsm:312:22\n"
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+JavaScript error: resource://gre/modules/TelemetryEnvironment.jsm, line 1372: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIXPCComponents_Utils.cloneInto]
+JavaScript error: resource://gre/modules/SearchService.jsm, line 194: uncaught exception: out of memory[
+GFX1-]: FaiJavaScript error: resource://gre/modules/SearchService.jsm, line 377: unlcaught exception: out ofed to c memory
+reate render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+JavaScript error: , line 0: uncaught exception: out of memory
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+JavaScript error: , line 0: uncaught exception: out of memory
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+out of memory: 0x0000000000000018 bytes requested
+out of memory: 0x0000000000000018 bytes requested
+out of memory: 0x0000000000002118 bytes requested
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+JavaScript error: , line 0: uncaught exception: out of memory
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create render target texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+[GFX1-]: Failed to create 2D texture: 0x8007000e
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+out of memory: 0x0000000000001000 bytes requested
+1587982007232	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.CVj7aJuEU90q"
+1587982009222	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587982009873	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587982009874	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587982009874	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587982009874	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587982012568	Marionette	INFO	Listening on port 61304
+1587982012721	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 34784, Gecko_IOThread] WARNING: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+1587982026976	Marionette	INFO	Stopped listening on port 61304
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1587982381107	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.Y23CKAYHsZfj"
+1587982381676	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587982382293	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587982382293	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587982382293	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587982382293	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587982385077	Marionette	INFO	Listening on port 61695
+1587982385481	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+1587982729627	Marionette	INFO	Stopped listening on port 61695
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+nner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.Egr7JFKBuvEh"
+1587982731063	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587982731758	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587982731758	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587982731759	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587982731759	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587982734744	Marionette	INFO	Listening on port 62072
+1587982735076	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587983094745	Marionette	INFO	Stopped listening on port 62072
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.R0fDdfeKq0ot"
+1587983096579	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587983097400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587983097400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587983097401	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587983097401	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587983100326	Marionette	INFO	Listening on port 62442
+1587983100748	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587983133304	Marionette	INFO	Stopped listening on port 62442
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.QJB6m39SySgI"
+1587983133886	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587983134771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587983134771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587983134771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587983134772	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587983137414	Marionette	INFO	Listening on port 62546
+1587983137806	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587983466436	Marionette	INFO	Stopped listening on port 62546
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.rsHI43X4e25G"
+1587983448484	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587983449856	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587983449857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587983449857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587983449857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587983455048	Marionette	INFO	Listening on port 62951
+1587983455546	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11888, Gecko_IOThread] WARNING: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+1587983532442	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.jZf9ugxQvaXZ"
+1587983534676	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587983535982	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587983535982	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587983535982	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587983535982	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587983538646	Marionette	INFO	Listening on port 63073
+1587983538963	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.47.132:8080"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.47.132:8080"
+1587984743657	Marionette	INFO	Stopped listening on port 63073
+1587988511105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.tICJuhCh3hQ8"
+1587988511718	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587988512687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587988512687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587988512688	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587988512688	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587988515566	Marionette	INFO	Listening on port 3382
+1587988515633	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+1587988732601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.FQhQ0PbGRIiO"
+1587988733148	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587988733776	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587988733776	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587988733777	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587988733777	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587988736242	Marionette	INFO	Listening on port 3626
+1587988736499	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 925))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:925:7
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1638:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+console.error: (new Error("Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 29))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2243))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2243))
+JavaScript error: resource://devtools/client/inspector/inspector.js, line 1547: TypeError: targetFront is null
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2243))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2243))
+1588072969524	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.zqs3lnblISJw"
+1588072971403	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588072971967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588072971967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588072971967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588072971967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588072975207	Marionette	INFO	Listening on port 8349
+1588072975588	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+[Parent 9388, Gecko_IOThread] WARNING: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 9388, Gecko_IOThread] WARNING: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+1588073001505	Marionette	INFO	Stopped listening on port 8349
+1588073104155	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile.BsLacY1SvYzz"
+1588073106167	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588073107066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588073107066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588073107066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588073107066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588073109861	Marionette	INFO	Listening on port 8430
+1588073110198	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 925))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:925:7
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1638:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+console.error: (new Error("Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 29))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2243))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2243))
+JavaScript error: resource://devtools/client/inspector/inspector.js, line 1547: TypeError: targetFront is null
+JavaScript error: resource://devtools/shared/fronts/node.js, line 404: TypeError: this.parentFront is null
+JavaScript error: resource://devtools/shared/fronts/node.js, line 404: TypeError: this.parentFront is null
+JavaScript error: resource://devtools/shared/fronts/node.js, line 404: TypeError: this.parentFront is null
+JavaScript error: resource://devtools/shared/fronts/node.js, line 404: TypeError: this.parentFront is null
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+JavaScript error: resource:///actors/ContextMenuChild.jsm, line 567: TypeError: doc is null
+JavaScript error: resource:///actors/ContextMenuChild.jsm, line 567: TypeError: doc is null
+JavaScript error: resource:///actors/ContextMenuChild.jsm, line 567: TypeError: doc is null
+JavaScript error: resource:///actors/ContextMenuChild.jsm, line 567: TypeError: doc is null
+JavaScript error: resource:///actors/ContextMenuChild.jsm, line 567: TypeError: doc is null
+JavaScript error: resource:///actors/ContextMenuChild.jsm, line 567: TypeError: doc is null
+JavaScript error: resource:///actors/ContextMenuChild.jsm, line 567: TypeError: doc is null
+JavaScript error: resource:///actors/ContextMenuChild.jsm, line 567: TypeError: doc is null
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 925))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:925:7
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1638:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+console.error: (new Error("Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 29))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2243))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2243))
+JavaScript error: resource://devtools/client/inspector/inspector.js, line 1547: TypeError: targetFront is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.47.132:8080"
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 925))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:925:7
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1638:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+console.error: (new Error("Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 29))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2243))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2243))
+JavaScript error: resource://devtools/client/inspector/inspector.js, line 1547: TypeError: targetFront is null
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 925))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:925:7
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1638:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+console.error: (new Error("Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 29))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2243))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2243))
+JavaScript error: resource://devtools/client/inspector/inspector.js, line 1547: TypeError: targetFront is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.47.132:8080"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.47.132:8080"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.47.132:8080"
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 925))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:925:7
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1638:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+console.error: (new Error("Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 29))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2243))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2243))
+JavaScript error: resource://devtools/client/inspector/inspector.js, line 1547: TypeError: targetFront is null
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 10564, Gecko_IOThread] WARNING: file Z:/task_1585933993/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+1588155762949	Marionette	INFO	Stopped listening on port 8430

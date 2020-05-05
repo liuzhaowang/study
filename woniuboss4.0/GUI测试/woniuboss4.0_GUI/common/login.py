@@ -32,6 +32,13 @@ class Login:
         self.input_vfcode(info['verifycode'])
         self.click_button()
 
+    def do_login_manager(self,base_config_path):
+        Service.open_page(self.driver, base_config_path)
+        info=Utility.get_json(base_config_path)
+        self.input_name(info['username_manager'])
+        self.input_upass(info['password_manager'])
+        self.input_vfcode(info['verifycode'])
+        self.click_button()
 
 
 

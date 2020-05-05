@@ -25,8 +25,10 @@ class TrainAddTest(unittest.TestCase):
             add_message=self.train.message()
             if add_message == '新增成功.':
                 actual = 'pass'
+            elif '属于' in add_message:
+                actual = 'pass'
             else:
-                actual = 'fail'
+                actual='fail'
         except:
             actual = 'fail'
         self.assertEqual(actual, expect)

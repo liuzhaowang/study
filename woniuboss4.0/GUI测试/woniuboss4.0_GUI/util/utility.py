@@ -189,13 +189,6 @@ if __name__ == '__main__':
 	# a=Utility().db_query_dict('..\\config\\base.conf',sql)[0]['total']
 	# print(type(a))
 	test_config_info = Utility.get_json('..\\config\\testdata.conf')
-	# train_info = Utility.get_excel_to_tuple(test_config_info[1])
-	# train_worker = Utility.get_excel_to_tuple(test_config_info[2])
-	# train_status = Utility.get_excel_to_tuple(test_config_info[3])
-	# train_source = Utility.get_excel_to_tuple(test_config_info[4])
-	# train_time = Utility.get_excel_to_tuple(test_config_info[5])
-
-	# print(train_time)
-
-	train_whole = Utility.get_json('..\\config\\base.conf')
-	print(train_whole['erji_pwd_zixun_manager'])
+	track_info = Utility.get_excel_to_tuple(test_config_info[10])
+	track_info_public = Utility.get_excel_to_tuple(test_config_info[11])
+	print(track_info_public)

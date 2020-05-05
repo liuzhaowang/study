@@ -22,7 +22,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/testcase/test_login.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -34,8 +34,8 @@
       <recent name="D:\study_all\grade3\woniuboss2.5_GUI\util" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.train_track">
-    <configuration name="login (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Driven">
+    <configuration name="Driven" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="woniuboss4.0_GUI" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -43,11 +43,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/driven" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/login.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/driven/Driven.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="train_add" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="train_transmit" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="woniuboss4.0_GUI" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,49 +131,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/train_add.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="train_source" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="woniuboss4.0_GUI" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/train_source.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="train_track" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="woniuboss4.0_GUI" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/train_track.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/train_transmit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,23 +161,51 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests in test_train_track.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="woniuboss4.0_GUI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcase/test_train_track.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_transmit.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="woniuboss4.0_GUI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcase/test_transmit.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.test_add" />
       <item itemvalue="Python.login" />
       <item itemvalue="Python.test_trainsource" />
       <item itemvalue="Python.utility" />
-      <item itemvalue="Python.train_add" />
-      <item itemvalue="Python.train_source" />
-      <item itemvalue="Python.login (1)" />
-      <item itemvalue="Python.train_track" />
+      <item itemvalue="Python tests.Unittests in test_transmit.py" />
+      <item itemvalue="Python.train_transmit" />
+      <item itemvalue="Python.Driven" />
+      <item itemvalue="Python tests.Unittests in test_train_track.py" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.train_track" />
-        <item itemvalue="Python.train_add" />
+        <item itemvalue="Python.Driven" />
         <item itemvalue="Python.utility" />
-        <item itemvalue="Python.train_source" />
-        <item itemvalue="Python.login (1)" />
+        <item itemvalue="Python tests.Unittests in test_train_track.py" />
+        <item itemvalue="Python tests.Unittests in test_transmit.py" />
+        <item itemvalue="Python.train_transmit" />
       </list>
     </recent_temporary>
   </component>
@@ -253,6 +239,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1587719065621" />
+    <state x="72" y="133" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1588066473335">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="72" y="133" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1588066473335" />
     <state x="412" y="150" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587556332724">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -261,29 +251,57 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="744" y="156" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587719062813" />
-    <state width="910" height="172" key="GridCell.Tab.0.bottom" timestamp="1587864007759">
+    <state width="1344" height="270" key="GridCell.Tab.0.bottom" timestamp="1588466511356">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="910" height="172" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587864007759" />
-    <state width="910" height="172" key="GridCell.Tab.0.center" timestamp="1587864007759">
+    <state width="1344" height="270" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588466511356" />
+    <state width="1344" height="270" key="GridCell.Tab.0.center" timestamp="1588466511356">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="910" height="172" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587864007759" />
-    <state width="910" height="172" key="GridCell.Tab.0.left" timestamp="1587864007759">
+    <state width="1344" height="270" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588466511356" />
+    <state width="1344" height="270" key="GridCell.Tab.0.left" timestamp="1588466511356">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="910" height="172" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587864007759" />
-    <state width="910" height="172" key="GridCell.Tab.0.right" timestamp="1587864007759">
+    <state width="1344" height="270" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588466511356" />
+    <state width="1344" height="270" key="GridCell.Tab.0.right" timestamp="1588466511356">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="910" height="172" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587864007759" />
-    <state x="425" y="200" key="com.intellij.ide.util.TipDialog" timestamp="1587823420312">
+    <state width="1344" height="270" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588466511356" />
+    <state width="1344" height="234" key="GridCell.Tab.1.bottom" timestamp="1587988659934">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="425" y="200" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587823420312" />
-    <state x="542" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1587817530884">
+    <state width="1344" height="234" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587988659934" />
+    <state width="1344" height="234" key="GridCell.Tab.1.center" timestamp="1587988659934">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="542" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1587817530884" />
+    <state width="1344" height="234" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587988659934" />
+    <state width="1344" height="234" key="GridCell.Tab.1.left" timestamp="1587988659934">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="234" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587988659934" />
+    <state width="1344" height="234" key="GridCell.Tab.1.right" timestamp="1587988659934">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="234" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587988659934" />
+    <state x="425" y="200" key="com.intellij.ide.util.TipDialog" timestamp="1588001485173">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="425" y="200" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588001485173" />
+    <state x="249" y="102" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1587988655191">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="249" y="102" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1587988655191" />
+    <state x="179" y="201" width="858" height="580" key="dock-window-1" timestamp="1587989711734">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="179" y="201" width="858" height="580" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1587989711734" />
+    <state x="166" y="174" width="858" height="580" key="dock-window-2" timestamp="1587989711734">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="166" y="174" width="858" height="580" key="dock-window-2/0.0.1366.728@0.0.1366.728" timestamp="1587989711734" />
+    <state x="542" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1588062280561">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="542" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1588062280561" />
   </component>
 </project>
