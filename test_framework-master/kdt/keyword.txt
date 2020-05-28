@@ -1,0 +1,11 @@
+open,http://localhost:8080/WoniuSales-20180508-V1.4-bin/,firefox
+wait,3
+input,id=username,admin
+input,id=password,admin123
+input,id=verifycode,0000
+click,xpath=/html/body/div[4]/div/form/div[6]/button
+wait,5,hello
+check exist,link=注销,注销
+check value,id=tempbuyprice,0
+input,id=barcode,6955203655479
+click,xpath=/html/body/div[4]/div[1]/div/div[1]/form/button

@@ -1,0 +1,1236 @@
+1585881226808	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.cjzJaQGgjJXJ"
+1585881229535	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585881229967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585881229967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585881229968	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585881229968	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585881235362	Marionette	INFO	Listening on port 3084
+1585881235505	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585881244432	Marionette	INFO	Stopped listening on port 3084
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585881278591	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.ZwyY7gY8g7Nj"
+1585881280257	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585881280706	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585881280706	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585881280707	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585881280707	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585881284067	Marionette	INFO	Listening on port 3159
+1585881284115	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://127.0.0.1:8080"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://127.0.0.1:8080"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://127.0.0.1:8080"
+1585882614737	Marionette	INFO	Stopped listening on port 3159
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+file" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.ODbVkk6bhty5"
+1585882428682	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585882429102	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585882429103	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585882429103	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585882429103	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585882432779	Marionette	INFO	Listening on port 3392
+1585882432925	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585882616432	Marionette	INFO	Stopped listening on port 3392
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585882477134	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585882477135	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585882477135	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585882477135	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585882480754	Marionette	INFO	Listening on port 3459
+1585882481236	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585882617579	Marionette	INFO	Stopped listening on port 3459
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1585895225177	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.BYlziHRznd3O"
+1585895227898	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585895228294	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585895228294	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585895228294	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585895228294	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585895232278	Marionette	INFO	Listening on port 16575
+1585895232749	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370134,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1585895299109	Marionette	INFO	Stopped listening on port 16575
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1585895378088	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.NSXL7XFhcLKq"
+1585895379703	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585895380109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585895380109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585895380109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585895380109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585895383158	Marionette	INFO	Listening on port 16930
+1585895383581	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370134,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1585895457019	Marionette	INFO	Stopped listening on port 16930
+\rust_mozprofile.kxEQNeD4aJPT"
+1585895441956	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585895442366	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585895442366	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585895442366	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585895442366	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585895446069	Marionette	INFO	Listening on port 17083
+1585895446239	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://127.0.0.1:8080"
+1585895520795	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.VWbc80nefex0"
+1585895522148	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585895522622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585895522622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585895522622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585895522622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585895525830	Marionette	INFO	Listening on port 17244
+1585895526220	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8916, Gecko_IOThread] WARNING: file z:/task_1583751780/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1585895722358	Marionette	INFO	Stopped listening on port 17244
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ission: networkStatus
+1585895588582	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585895588582	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585895588582	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585895588582	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585895591610	Marionette	INFO	Listening on port 17390
+1585895591990	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370134,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1585895664105	Marionette	INFO	Stopped listening on port 17390
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1585895715381	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.agl0qYcc5gOM"
+1585895716666	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585895717083	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585895717083	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585895717084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585895717084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585895720863	Marionette	INFO	Listening on port 17593
+1585895720909	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://127.0.0.1:8080"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://127.0.0.1:8080"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://127.0.0.1:8080"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1585895879440	Marionette	INFO	Stopped listening on port 17593
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+oh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585895842468	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585895842468	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585895842468	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585895842468	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585895846684	Marionette	INFO	Listening on port 17794
+1585895847082	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370134,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1585895881796	Marionette	INFO	Stopped listening on port 17794
+1585895893455	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.AxuwtQuBCBMb"
+1585895894803	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585895895251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585895895251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585895895251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585895895251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585895898416	Marionette	INFO	Listening on port 17920
+1585895898880	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585895990981	Marionette	INFO	Stopped listening on port 17920
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ebextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585895960183	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585895960183	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585895960183	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585895960183	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585895964546	Marionette	INFO	Listening on port 18067
+1585895964716	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585895991564	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.Jr3olY4cN5yk"
+1585895993208	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585895993624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585895993624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585895993624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585895993624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585895996738	Marionette	INFO	Listening on port 18170
+1585895996982	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585896127669	Marionette	INFO	Stopped listening on port 18170
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ebextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585896048711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585896048711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585896048711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585896048711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585896053508	Marionette	INFO	Listening on port 18300
+1585896054067	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370134,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1585896126848	Marionette	INFO	Stopped listening on port 18300
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585896092288	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585896092288	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585896092288	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585896092288	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585896095333	Marionette	INFO	Listening on port 18420
+1585896095516	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370134,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1585896125021	Marionette	INFO	Stopped listening on port 18420
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1585896174787	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.OPirrWFXaeAm"
+1585896176407	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585896176847	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585896176847	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585896176847	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585896176847	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585896179988	Marionette	INFO	Listening on port 18578
+1585896180204	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://127.0.0.1:8080"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://127.0.0.1:8080"
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 68: Error: Connection closed, pending request to server0.conn0.child1/highlighter24, type showBoxModel failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:214:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19
+highlight@resource://devtools/shared/fronts/highlighters.js:77:16
+buildButton/button.onBreadcrumbsHover@resource://devtools/client/inspector/breadcrumbs.js:744:34
+handleMouseOver@resource://devtools/client/inspector/breadcrumbs.js:586:14
+handleEvent@resource://devtools/client/inspector/breadcrumbs.js:541:12
+
+1585896483828	Marionette	INFO	Stopped listening on port 18578
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 12268, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1583751780/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+cript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585896415444	Marionette	INFO	Listening on port 18904
+1585896415643	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370134,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1585896479313	Marionette	INFO	Stopped listening on port 18904
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+tworkStatus
+1585896474665	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585896474665	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585896474665	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585896474665	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585896479206	Marionette	INFO	Listening on port 19034
+1585896479769	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://127.0.0.1:8080"
+JavaScript warning: https://home.firefoxchina.cn/2019/js/mozMainScript-min.js?v=20191129, line 1: unreachable code after return statement
+JavaScript warning: https://home.firefoxchina.cn/2019/js/mozMainScript-min.js?v=20191129, line 1: unreachable code after return statement
+JavaScript error: http://news.hoteastday.com/public/js/device_check.js?v=20200403, line 407: TypeError: localStorage.getItem(...) is null
+JavaScript error: http://news.hoteastday.com/public/js/device_check.js?v=20200403, line 407: TypeError: localStorage.getItem(...) is null
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_r3%09baidu%0940731%091585896889298%09null%09null%09null&callback=jQuery1113016232435899951692_1585896889109&_=1585896889110, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_r4%09360%09Mj8CqI%091585896889304%09null%09null%09null&callback=jQuery1113016232435899951692_1585896889111&_=1585896889112, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_r7%09360%09zePrT3%091585896889410%09null%09null%09null&callback=jQuery1113016232435899951692_1585896889113&_=1585896889114, line 1: SyntaxError: unexpected token: ':'
+JavaScript warning: http://static.mediav.com/js/mvf_gplus2.js, line 1: unreachable code after return statement
+JavaScript warning: http://static.mediav.com/js/mvf_gplus2.js, line 1: unreachable code after return statement
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_wtitle1%09360%09null%091585896890053%09null%09null%09null&callback=jQuery18305761786879612073_1585896889635&_=1585896890055, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_wcont2%09360%09null%091585896890060%09null%09null%09null&callback=jQuery18305761786879612073_1585896889636&_=1585896890064, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://news.hoteastday.com/statics/js/detail/detail_main.js?1585896889637, line 552: TypeError: res is undefined
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_hot1%09360%09null%091585896890451%09null%09null%09null&callback=jQuery18305761786879612073_1585896889637&_=1585896890452, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_hot1%09360%09null%091585896890452%09null%09null%09null&callback=jQuery18305761786879612073_1585896889638&_=1585896890453, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_hot1%09360%09null%091585896890454%09null%09null%09null&callback=jQuery18305761786879612073_1585896889636&_=1585896890455, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_title1%09sougo%091102260%091585896890476%09null%09null%09null&callback=jQuery18305761786879612073_1585896889635&_=1585896890477, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ad_tips%09360%09null%091585896890869%09null%09null%09null&callback=jQuery18305761786879612073_1585896889635&_=1585896890869, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_cont2%09sougo%091102262%091585896893021%09null%09null%09null&callback=jQuery18305761786879612073_1585896889636&_=1585896893024, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_r1%09360%09EThZyO%091585896894513%09null%09null%09null&callback=jQuery111303003067129053042_1585896894479&_=1585896894480, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_r2%09360%09ulGflh%091585896894583%09null%09null%09null&callback=jQuery111303003067129053042_1585896894481&_=1585896894482, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_r3%09baidu%0940731%091585896894603%09null%09null%09null&callback=jQuery111303003067129053042_1585896894479&_=1585896894483, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_r4%09360%09Mj8CqI%091585896894605%09null%09null%09null&callback=jQuery111303003067129053042_1585896894484&_=1585896894485, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_r7%09360%09zePrT3%091585896894681%09null%09null%09null&callback=jQuery111303003067129053042_1585896894481&_=1585896894486, line 1: SyntaxError: unexpected token: ':'
+JavaScript warning: http://static.mediav.com/js/mvf_gplus2.js, line 1: unreachable code after return statement
+JavaScript warning: http://static.mediav.com/js/mvf_gplus2.js, line 1: unreachable code after return statement
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_wtitle1%09360%09null%091585896895371%09null%09null%09null&callback=jQuery18307417967614079718_1585896894787&_=1585896895372, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_wcont2%09360%09null%091585896895375%09null%09null%09null&callback=jQuery18307417967614079718_1585896894788&_=1585896895376, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://news.hoteastday.com/statics/js/detail/detail_main.js?1585896894789, line 552: TypeError: res is undefined
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ad_tips%09360%09null%091585896895528%09null%09null%09null&callback=jQuery18307417967614079718_1585896894789&_=1585896895529, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_hot1%09360%09null%091585896895572%09null%09null%09null&callback=jQuery18307417967614079718_1585896894790&_=1585896895573, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_hot1%09360%09null%091585896895575%09null%09null%09null&callback=jQuery18307417967614079718_1585896894787&_=1585896895576, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_hot1%09360%09null%091585896895577%09null%09null%09null&callback=jQuery18307417967614079718_1585896894791&_=1585896895579, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_title1%09sougo%091102260%091585896895728%09null%09null%09null&callback=jQuery18307417967614079718_1585896894791&_=1585896895730, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_cont2%09sougo%091102262%091585896901156%09null%09null%09null&callback=jQuery18307417967614079718_1585896894791&_=1585896901159, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_r1%09360%09EThZyO%091585896911132%09null%09null%09null&callback=jQuery111306001107917232643_1585896911099&_=1585896911100, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_r2%09360%09ulGflh%091585896911213%09null%09null%09null&callback=jQuery111306001107917232643_1585896911099&_=1585896911101, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_r3%09baidu%0940731%091585896911253%09null%09null%09null&callback=jQuery111306001107917232643_1585896911102&_=1585896911103, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_r4%09360%09Mj8CqI%091585896911259%09null%09null%09null&callback=jQuery111306001107917232643_1585896911104&_=1585896911105, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_r7%09360%09zePrT3%091585896911276%09null%09null%09null&callback=jQuery111306001107917232643_1585896911099&_=1585896911106, line 1: SyntaxError: unexpected token: ':'
+JavaScript warning: http://static.mediav.com/js/mvf_gplus2.js, line 1: unreachable code after return statement
+JavaScript warning: http://static.mediav.com/js/mvf_gplus2.js, line 1: unreachable code after return statement
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_wtitle1%09360%09null%091585896911820%09null%09null%09null&callback=jQuery1830556916165371673_1585896911405&_=1585896911821, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_wcont2%09360%09null%091585896911825%09null%09null%09null&callback=jQuery1830556916165371673_1585896911406&_=1585896911826, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://news.hoteastday.com/statics/js/detail/detail_main.js?1585896911407, line 552: TypeError: res is undefined
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ad_tips%09360%09null%091585896912034%09null%09null%09null&callback=jQuery1830556916165371673_1585896911407&_=1585896912035, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_hot1%09360%09null%091585896912084%09null%09null%09null&callback=jQuery1830556916165371673_1585896911408&_=1585896912085, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_hot1%09360%09null%091585896912087%09null%09null%09null&callback=jQuery1830556916165371673_1585896911405&_=1585896912088, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_hot1%09360%09null%091585896912090%09null%09null%09null&callback=jQuery1830556916165371673_1585896911409&_=1585896912091, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_title1%09sougo%091102260%091585896912245%09null%09null%09null&callback=jQuery1830556916165371673_1585896911409&_=1585896912247, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_cont2%09sougo%091102262%091585896936371%09null%09null%09null&callback=jQuery1830556916165371673_1585896911409&_=1585896936373, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_hotrecommend%09360%09null%091585896936593%09null%09null%09null&callback=jQuery1830556916165371673_1585896911409&_=1585896936594, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_hotrecommend%09360%09null%091585896936591%09null%09null%09null&callback=jQuery1830556916165371673_1585896911405&_=1585896936592, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_hotrecommend%09360%09null%091585896936596%09null%09null%09null&callback=jQuery1830556916165371673_1585896911408&_=1585896936597, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_hotrecommend%09360%09null%091585896936598%09null%09null%09null&callback=jQuery1830556916165371673_1585896911406&_=1585896936599, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_hotrecommend%09360%09null%091585896936599%09null%09null%09null&callback=jQuery1830556916165371673_1585896911407&_=1585896936601, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_hotrecommend%09360%09null%091585896936607%09null%09null%09null&callback=jQuery1830556916165371673_1585896911412&_=1585896936611, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_hotrecommend%09360%09null%091585896936603%09null%09null%09null&callback=jQuery1830556916165371673_1585896911410&_=1585896936604, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_hotrecommend%09360%09null%091585896936613%09null%09null%09null&callback=jQuery1830556916165371673_1585896911413&_=1585896936614, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_hotrecommend%09360%09null%091585896936605%09null%09null%09null&callback=jQuery1830556916165371673_1585896911411&_=1585896936606, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_hotrecommend%09360%09null%091585896936615%09null%09null%09null&callback=jQuery1830556916165371673_1585896911414&_=1585896936619, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_r1%09360%09EThZyO%091585896937543%09null%09null%09null&callback=jQuery111306337159356451668_1585896937510&_=1585896937511, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_r2%09360%09ulGflh%091585896937614%09null%09null%09null&callback=jQuery111306337159356451668_1585896937512&_=1585896937513, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_r3%09baidu%0940731%091585896937672%09null%09null%09null&callback=jQuery111306337159356451668_1585896937512&_=1585896937514, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_r4%09360%09Mj8CqI%091585896937677%09null%09null%09null&callback=jQuery111306337159356451668_1585896937510&_=1585896937515, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_r7%09360%09zePrT3%091585896937710%09null%09null%09null&callback=jQuery111306337159356451668_1585896937516&_=1585896937517, line 1: SyntaxError: unexpected token: ':'
+JavaScript warning: http://static.mediav.com/js/mvf_gplus2.js, line 1: unreachable code after return statement
+JavaScript warning: http://static.mediav.com/js/mvf_gplus2.js, line 1: unreachable code after return statement
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_wtitle1%09360%09null%091585896938292%09null%09null%09null&callback=jQuery18309042100654765813_1585896937871&_=1585896938295, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_wcont2%09360%09null%091585896938297%09null%09null%09null&callback=jQuery18309042100654765813_1585896937872&_=1585896938298, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://news.hoteastday.com/statics/js/detail/detail_main.js?1585896937873, line 552: TypeError: res is undefined
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_hot1%09360%09null%091585896938536%09null%09null%09null&callback=jQuery18309042100654765813_1585896937872&_=1585896938537, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_hot1%09360%09null%091585896938535%09null%09null%09null&callback=jQuery18309042100654765813_1585896937873&_=1585896938536, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_hot1%09360%09null%091585896938533%09null%09null%09null&callback=jQuery18309042100654765813_1585896937874&_=1585896938534, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ad_tips%09360%09null%091585896938642%09null%09null%09null&callback=jQuery18309042100654765813_1585896937874&_=1585896938644, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_title1%09sougo%091102260%091585896938658%09null%09null%09null&callback=jQuery18309042100654765813_1585896937873&_=1585896938659, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_cont2%09sougo%091102262%091585896940214%09null%09null%09null&callback=jQuery18309042100654765813_1585896937873&_=1585896940219, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_hotrecommend%09360%09null%091585896940439%09null%09null%09null&callback=jQuery18309042100654765813_1585896937874&_=1585896940441, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_hotrecommend%09360%09null%091585896940435%09null%09null%09null&callback=jQuery18309042100654765813_1585896937873&_=1585896940436, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_hotrecommend%09360%09null%091585896940436%09null%09null%09null&callback=jQuery18309042100654765813_1585896937872&_=1585896940437, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_hotrecommend%09360%09null%091585896940443%09null%09null%09null&callback=jQuery18309042100654765813_1585896937875&_=1585896940444, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_hotrecommend%09360%09null%091585896940447%09null%09null%09null&callback=jQuery18309042100654765813_1585896937876&_=1585896940449, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_hotrecommend%09360%09null%091585896940441%09null%09null%09null&callback=jQuery18309042100654765813_1585896937871&_=1585896940442, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_hotrecommend%09360%09null%091585896940449%09null%09null%09null&callback=jQuery18309042100654765813_1585896937877&_=1585896940449, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_hotrecommend%09360%09null%091585896940451%09null%09null%09null&callback=jQuery18309042100654765813_1585896937878&_=1585896940452, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_hotrecommend%09360%09null%091585896940453%09null%09null%09null&callback=jQuery18309042100654765813_1585896937879&_=1585896940453, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_hotrecommend%09360%09null%091585896940454%09null%09null%09null&callback=jQuery18309042100654765813_1585896937880&_=1585896940454, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_r1%09360%09EThZyO%091585896941141%09null%09null%09null&callback=jQuery111307662848949380056_1585896941113&_=1585896941114, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_r3%09baidu%0940731%091585896941228%09null%09null%09null&callback=jQuery111307662848949380056_1585896941113&_=1585896941117, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_r2%09360%09ulGflh%091585896941207%09null%09null%09null&callback=jQuery111307662848949380056_1585896941115&_=1585896941116, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_r4%09360%09Mj8CqI%091585896941230%09null%09null%09null&callback=jQuery111307662848949380056_1585896941118&_=1585896941119, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_r7%09360%09zePrT3%091585896941259%09null%09null%09null&callback=jQuery111307662848949380056_1585896941120&_=1585896941121, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_wtitle1%09360%09null%091585896941951%09null%09null%09null&callback=jQuery1830044528688476306866_1585896941379&_=1585896941961, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://news.hoteastday.com/statics/js/detail/detail_main.js?1585896941380, line 552: TypeError: res is undefined
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_wcont2%09360%09null%091585896941964%09null%09null%09null&callback=jQuery1830044528688476306866_1585896941380&_=1585896941966, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ad_tips%09360%09null%091585896942245%09null%09null%09null&callback=jQuery1830044528688476306866_1585896941380&_=1585896942246, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://data.hoteastday.com/newspc/show?code=huohu%094ac4fdba6b82f14b%09Windows%207%09firefox%09null%09null%09null%09null%09null%09null%09ndetailpage_title1%09sougo%091102260%091585896942439%09null%09null%09null&callback=jQuery1830044528688476306866_1585896941380&_=1585896942440, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://csdnimg.cn/public/sandalstrap/1.4/js/sandalstrap.min.js, line 1: TypeError: r.target.parentNode is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://127.0.0.1:8080"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://127.0.0.1:8080"
+1585897322276	Marionette	INFO	Stopped listening on port 19034
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585897421023	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.E02bKelr4lvu"
+1585897422723	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585897423143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585897423143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585897423143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585897423143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585897426351	Marionette	INFO	Listening on port 20534
+1585897426514	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370134,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1585897465511	Marionette	INFO	Stopped listening on port 20534
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+tworkStatus
+1585897465798	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585897465798	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585897465798	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585897465798	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585897468910	Marionette	INFO	Listening on port 20647
+1585897468995	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585897631509	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Warning processing permissions: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["find"], be one of ["history"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["topSites"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["captivePortal"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["normandyAddonStudy"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["urlbar"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["activityLog"], be one of ["management"], be one of ["networkStatus"], be one of ["privacy"], be one of ["telemetry"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1585897631512	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Warning processing version_name: An unexpected property was found in the WebExtension manifest.
+1585897631512	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Warning processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1585899242787	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Warning processing permissions: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["find"], be one of ["history"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["topSites"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["captivePortal"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["normandyAddonStudy"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["urlbar"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["activityLog"], be one of ["management"], be one of ["networkStatus"], be one of ["privacy"], be one of ["telemetry"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1585899242788	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Warning processing version_name: An unexpected property was found in the WebExtension manifest.
+1585899242789	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Warning processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+JavaScript warning: https://home.firefoxchina.cn/2019/js/mozMainScript-min.js?v=20191129, line 1: unreachable code after return statement
+JavaScript warning: https://home.firefoxchina.cn/2019/js/mozMainScript-min.js?v=20191129, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "moz-extension://c62fc22e-0479-4b49-9d7b-faca78cb5b22"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "moz-extension://c62fc22e-0479-4b49-9d7b-faca78cb5b22"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "moz-extension://c62fc22e-0479-4b49-9d7b-faca78cb5b22"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "moz-extension://c62fc22e-0479-4b49-9d7b-faca78cb5b22"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "moz-extension://c62fc22e-0479-4b49-9d7b-faca78cb5b22"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "moz-extension://c62fc22e-0479-4b49-9d7b-faca78cb5b22"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "moz-extension://c62fc22e-0479-4b49-9d7b-faca78cb5b22"
+1585899706560	Marionette	INFO	Stopped listening on port 20647
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ebextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585899687262	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585899687262	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585899687262	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585899687262	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585899690377	Marionette	INFO	Listening on port 23327
+1585899690833	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x580005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x58002D,name=PHttpChannel::Msg_SetPriority) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370134,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1585899707903	Marionette	INFO	Stopped listening on port 23327
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1585899722445	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.OgURemb4QcdD"
+1585899723603	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585899723989	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585899723989	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585899723990	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585899723990	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585899728274	Marionette	INFO	Listening on port 23441
+1585899728493	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585899868027	Marionette	INFO	Stopped listening on port 23441
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ebextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585899776180	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585899776180	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585899776180	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585899776180	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585899780016	Marionette	INFO	Listening on port 23567
+1585899780083	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370134,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1585899826535	Marionette	INFO	Stopped listening on port 23567
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585899824615	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585899824615	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585899824616	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585899824616	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585899830986	Marionette	INFO	Listening on port 23695
+1585899831028	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585899849647	Marionette	INFO	Stopped listening on port 23695
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1585899870313	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.aNHcVLZL5gOX"
+1585899871441	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585899871871	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585899871871	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585899871871	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585899871871	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585899875117	Marionette	INFO	Listening on port 23808
+1585899875260	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370134,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1585899887350	Marionette	INFO	Stopped listening on port 23808
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1585899930138	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.R4ZLKeqOaywT"
+1585899931259	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585899931669	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585899931669	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585899931670	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585899931670	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585899934982	Marionette	INFO	Listening on port 23933
+1585899935069	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585900039999	Marionette	INFO	Stopped listening on port 23933
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.WwCTUmWs5Evv"
+1585900005841	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585900006253	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585900006254	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585900006254	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585900006254	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585900010154	Marionette	INFO	Listening on port 24075
+1585900010233	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370134,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1585900041443	Marionette	INFO	Stopped listening on port 24075
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1585900064171	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.dvasGlpXSfTI"
+1585900065964	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585900066697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585900066697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585900066698	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585900066698	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585900070777	Marionette	INFO	Listening on port 24204
+1585900070840	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585900351455	Marionette	INFO	Stopped listening on port 24204
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.5uglLX5IYxkB"
+1585900123605	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585900124027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585900124027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585900124027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585900124027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585900127997	Marionette	INFO	Listening on port 24330
+1585900128022	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585900349384	Marionette	INFO	Stopped listening on port 24330
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ebextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585900251691	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585900251691	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585900251691	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585900251691	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585900254880	Marionette	INFO	Listening on port 24542
+1585900255055	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585900348903	Marionette	INFO	Stopped listening on port 24542
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ebextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585900310344	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585900310345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585900310345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585900310345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585900313544	Marionette	INFO	Listening on port 24673
+1585900313781	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370134,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1585900348155	Marionette	INFO	Stopped listening on port 24673
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585900396971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.qdDMghTOb09d"
+1585900398651	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585900399074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585900399074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585900399074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585900399074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585900402221	Marionette	INFO	Listening on port 24840
+1585900402475	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://127.0.0.1:8080"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://127.0.0.1:8080"
+JavaScript warning: https://home.firefoxchina.cn/2019/js/mozMainScript-min.js?v=20191129, line 1: unreachable code after return statement
+JavaScript warning: https://home.firefoxchina.cn/2019/js/mozMainScript-min.js?v=20191129, line 1: unreachable code after return statement
+JavaScript error: https://static-media-prod-cdn.itsre-sumo.mozilla.net/static/build/common-min.5594359fa3da.js, line 10: Error: Error retrieving geoip data
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+1585900699528	Marionette	INFO	Stopped listening on port 24840
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ening on port 25006
+1585900486254	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://127.0.0.1:8080"
+1585900620554	Marionette	INFO	Stopped listening on port 25006
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1585900948503	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.Rv0dVct9rh5k"
+1585900950121	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585900950515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585900950515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585900950515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585900950515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585900953781	Marionette	INFO	Listening on port 25818
+1585900953990	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585900990652	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.M4V9ocWN99Ej"
+1585900992333	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585900992750	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585900992750	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585900992750	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585900992751	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585900995877	Marionette	INFO	Listening on port 25941
+1585900996065	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://home.firefoxchina.cn/2019/js/mozMainScript-min.js?v=20191129, line 1: unreachable code after return statement
+JavaScript warning: https://home.firefoxchina.cn/2019/js/mozMainScript-min.js?v=20191129, line 1: unreachable code after return statement
+1585901209373	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Warning processing permissions: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["find"], be one of ["history"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["topSites"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["captivePortal"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["normandyAddonStudy"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["urlbar"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["activityLog"], be one of ["management"], be one of ["networkStatus"], be one of ["privacy"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1585901209376	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Warning processing version_name: An unexpected property was found in the WebExtension manifest.
+1585901209376	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Warning processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1585901214400	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Warning processing permissions: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["find"], be one of ["history"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["topSites"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["captivePortal"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["normandyAddonStudy"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["urlbar"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["activityLog"], be one of ["management"], be one of ["networkStatus"], be one of ["privacy"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1585901214403	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Warning processing version_name: An unexpected property was found in the WebExtension manifest.
+1585901214404	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Warning processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1585901220637	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Warning processing permissions: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["find"], be one of ["history"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["topSites"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["captivePortal"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["normandyAddonStudy"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["urlbar"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["activityLog"], be one of ["management"], be one of ["networkStatus"], be one of ["privacy"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1585901220639	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Warning processing version_name: An unexpected property was found in the WebExtension manifest.
+1585901220639	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Warning processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+JavaScript error: moz-extension://c0684af0-a215-49a0-ac3b-3a2a054109e6/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: moz-extension://c0684af0-a215-49a0-ac3b-3a2a054109e6/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: moz-extension://c0684af0-a215-49a0-ac3b-3a2a054109e6/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: moz-extension://c0684af0-a215-49a0-ac3b-3a2a054109e6/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: moz-extension://c0684af0-a215-49a0-ac3b-3a2a054109e6/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "moz-extension://c0684af0-a215-49a0-ac3b-3a2a054109e6"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://127.0.0.1:8080"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://127.0.0.1:8080"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "moz-extension://c0684af0-a215-49a0-ac3b-3a2a054109e6"
+JavaScript error: moz-extension://c0684af0-a215-49a0-ac3b-3a2a054109e6/assets/neo.js, line 1: TypeError: this.currentRunningTest is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "moz-extension://c0684af0-a215-49a0-ac3b-3a2a054109e6"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://127.0.0.1:8080"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "moz-extension://c0684af0-a215-49a0-ac3b-3a2a054109e6"
+[Child 13224, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1583751780/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+1585901659401	Marionette	INFO	Stopped listening on port 25941
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1585901728849	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.caGF6ejL1Sgk"
+1585901732085	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585901732509	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585901732509	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585901732509	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585901732509	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585901735607	Marionette	INFO	Listening on port 27008
+1585901736104	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585902101465	Marionette	INFO	Stopped listening on port 27008
+ram Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.8GcQOE1cILru"
+1585901789554	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585901789956	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585901789956	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585901789956	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585901789956	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585901793334	Marionette	INFO	Listening on port 27137
+1585901793403	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585902103706	Marionette	INFO	Stopped listening on port 27137
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ebextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585901826605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585901826605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585901826605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585901826605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585901829864	Marionette	INFO	Listening on port 27242
+1585901830086	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585902105974	Marionette	INFO	Stopped listening on port 27242
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ebextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585901876621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585901876621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585901876621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585901876622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585901879887	Marionette	INFO	Listening on port 27364
+1585901880029	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585902107845	Marionette	INFO	Stopped listening on port 27364
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585902289177	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.oiBSRGgXLMnA"
+1585902290872	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585902291279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585902291279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585902291280	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585902291280	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585902294519	Marionette	INFO	Listening on port 27902
+1585902294655	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585902383840	Marionette	INFO	Stopped listening on port 27902
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.c3hMAOketYsv"
+1585902384104	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585902384574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585902384574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585902384574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585902384574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585902387689	Marionette	INFO	Listening on port 28084
+1585902387782	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370134,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1585902421419	Marionette	INFO	Stopped listening on port 28084
+\rust_mozprofile.MjykNjy2d4dd"
+1585902422141	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585902422568	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585902422568	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585902422568	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585902422569	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585902426554	Marionette	INFO	Listening on port 28194
+1585902426893	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585902480232	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.fmrF6wyHBWGD"
+1585902481373	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585902481770	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585902481770	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585902481770	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585902481770	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585902485690	Marionette	INFO	Listening on port 28332
+1585902485761	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585902518400	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.7jle7L2A7g4U"
+1585902519544	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585902519946	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585902519946	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585902519946	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585902519946	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585902523016	Marionette	INFO	Listening on port 28437
+1585902526600	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://home.firefoxchina.cn/2019/js/mozMainScript-min.js?v=20191129, line 1: unreachable code after return statement
+JavaScript warning: https://home.firefoxchina.cn/2019/js/mozMainScript-min.js?v=20191129, line 1: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://pos.baidu.com/qckm?conwid=300&conhei=250&rdid=3163270&dc=3&exps=110011&psi=aec5347cd74bdafddb38a4af1a841d10&di=u3163270&dri=0&dis=0&dai=7&ps=2349x73&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585903110304&ti=selenium%20webdriver%20%E8%8E%B7%E5%8F%96input%E8%BE%93%E5%85%A5%E6%A1%86%E4%B8%8A%E7%9A%84value%E5%80%BC_Python_iSelenium-CSDN%E5%8D%9A&ari=2&ver=0401&dbv=0&drs=1&pcs=1583x764&pss=1583x4737&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1585903110&prot=2&rw=764&ltu=https%3A%2F%2Fblog.csdn.net%2Fxiaoguanyusb%2Farticle%2Fdetails%2F80520180&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DiiA9apFPTRui-Omjmt_rmO5ud6RCHu2Rxxu7e2yE0GHYfaF5YIBCOTjoNPop4Benfj8q47tT63pBzpbdl0MvcJpTcrwjrvG1805vibBJ7Be%26wd%3D%26eqid%3Ddbb1300800018b81000000045e86f594&lcr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DiiA9apFPTRui-Omjmt_rmO5ud6RCHu2Rxxu7e2yE0GHYfaF5YIBCOTjoNPop4Benfj8q47tT63pBzpbdl0MvcJpTcrwjrvG1805vibBJ7Be%26wd%3D%26eqid%3Ddbb1300800018b81000000045e86f594&ecd=1&uc=1600x860&pis=-1x-1&sr=1600x900&tcn=1585903110&qn=df34fe366b015fba&tt=1585903110270.66.778.778, line 137: unreachable code 1585903265038	Marionette	INFO	Stopped listening on port 28795
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+T&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585903110304&ti=selenium%20webdriver%20%E8%8E%B7%E5%8F%96input%E8%BE%93%E5%85%A5%E6%A1%86%E4%B8%8A%E7%9A%84value%E5%80%BC_Python_iSelenium-CSDN%E5%8D%9A&ari=2&ver=0401&dbv=0&drs=1&pcs=1583x764&pss=1583x4737&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1585903110&prot=2&rw=764&ltu=https%3A%2F%2Fblog.csdn.net%2Fxiaoguanyusb%2Farticle%2Fdetails%2F80520180&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DiiA9apFPTRui-Omjmt_rmO5ud6RCHu2Rxxu7e2yE0GHYfaF5YIBCOTjoNPop4Benfj8q47tT63pBzpbdl0MvcJpTcrwjrvG1805vibBJ7Be%26wd%3D%26eqid%3Ddbb1300800018b81000000045e86f594&lcr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DiiA9apFPTRui-Omjmt_rmO5ud6RCHu2Rxxu7e2yE0GHYfaF5YIBCOTjoNPop4Benfj8q47tT63pBzpbdl0MvcJpTcrwjrvG1805vibBJ7Be%26wd%3D%26eqid%3Ddbb1300800018b81000000045e86f594&ecd=1&uc=1600x860&pis=-1x-1&sr=1600x900&tcn=1585903110&qn=df34fe366b015fba&tt=1585903110270.66.778.778, line 137: unreachable code after return statement
+JavaScript error: https://csdnimg.cn/public/sandalstrap/1.4/js/sandalstrap.min.js, line 1: TypeError: r.target.parentNode is 1585903265726	Marionette	INFO	Stopped listening on port 28947
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+21	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585902865221	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585902865221	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585902865222	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585902868795	Marionette	INFO	Listening on port 29199
+1585902869072	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585903266150	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.TaZrVTmuVKVc"
+1585903268273	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585903268709	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585903268709	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585903268710	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585903268710	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585903272956	Marionette	INFO	Listening on port 29898
+1585903273283	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370134,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1585903323597	Marionette	INFO	Stopped listening on port 29898
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+tworkStatus
+1585903323112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585903323112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585903323112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585903323112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585903327269	Marionette	INFO	Listening on port 30030
+1585903327457	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://home.firefoxchina.cn/2019/js/mozMainScript-min.js?v=20191129, line 1: unreachable code after return statement
+JavaScript warning: https://home.firefoxchina.cn/2019/js/mozMainScript-min.js?v=20191129, line 1: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://pos.baidu.com/icam?conwid=300&conhei=250&rdid=3163270&dc=3&exps=110011&psi=d1f163af1ef9b00079745d69aba0f25b&di=u3163270&dri=0&dis=0&dai=7&ps=1636x73&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585903712928&ti=selenium%20webdriver--%E6%80%8E%E4%B9%88%E7%AD%89%E5%BE%85%E9%A1%B5%E9%9D%A2%E5%85%83%E7%B4%A0%E5%8A%A0%E8%BD%BD%E5%AE%8C%E6%88%90%E5%90%8E%E6%89%A7%E8%A1%8C%E6%93%8D%E4%BD%9C_Python_weixin_45242568&ari=2&ver=0401&dbv=0&drs=1&pcs=1583x764&pss=1583x4647&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1585903712&prot=2&rw=764&ltu=https%3A%2F%2Fblog.csdn.net%2Fweixin_45242568%2Farticle%2Fdetails%2F93212915&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DFwOxMAD41jKJW-RqIXeSLUup5cIcvsb1mxqNEae09bmOpireOmaVAeyiC2gTTTD3mQ9EMhIll5JyukH-06JsMeZtKTSEGnO1JMtMtXYK7y7%26wd%3D%26eqid%3D8bb4c1380006a0ff000000045e86f73b&lcr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DFwOxMAD41jKJW-RqIXeSLUup5cIcvsb1mxqNEae09bmOpireOmaVAeyiC2gTTTD3mQ9EMhIll5JyukH-06JsMeZtKTSEGnO1JMtMtXYK7y7%26wd%3D%26eqid%3D8bb4c1380006a0ff000000045e86f73b&ecd=1&uc=1600x860&pis=-1x-1&sr=1600x900&tcn=1585903713&qn=5f8c69bf224ea992&tt=1585903712906.47.662.662, line 137: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/icam?conwid=300&conhei=250&rdid=3163270&dc=3&exps=110011&psi=d1f163af1ef9b00079745d69aba0f25b&di=u3163270&dri=0&dis=0&dai=7&ps=1636x73&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585903712928&ti=selenium%20webdriver--%E6%80%8E%E4%B9%88%E7%AD%89%E5%BE%85%E9%A1%B5%E9%9D%A2%E5%85%83%E7%B4%A0%E5%8A%A0%E8%BD%BD%E5%AE%8C%E6%88%90%E5%90%8E%E6%89%A7%E8%A1%8C%E6%93%8D%E4%BD%9C_Python_weixin_45242568&ari=2&ver=0401&dbv=0&drs=1&pcs=1583x764&pss=1583x4647&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1585903712&prot=2&rw=764&ltu=https%3A%2F%2Fblog.csdn.net%2Fweixin_45242568%2Farticle%2Fdetails%2F93212915&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DFwOxMAD41jKJW-RqIXeSLUup5cIcvsb1mxqNEae09bmOpireOmaVAeyiC2gTTTD3mQ9EMhIll5JyukH-06JsMeZtKTSEGnO1JMtMtXYK7y7%26wd%3D%26eqid%3D8bb4c1380006a0ff000000045e86f73b&lcr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DFwOxMAD41jKJW-RqIXeSLUup5cIcvsb1mxqNEae09bmOpireOmaVAeyiC2gTTTD3mQ9EMhIll5JyukH-06JsMeZtKTSEGnO1JMtMtXYK7y7%26wd%3D%26eqid%3D8bb4c1380006a0ff000000045e86f73b&ecd=1&uc=1600x860&pis=-1x-1&sr=1600x900&tcn=1585903713&qn=5f8c69bf224ea992&tt=1585903712906.47.662.662, line 137: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://pos.baidu.com/acwm?conwid=300&conhei=250&rdid=3163270&dc=3&exps=110011&psi=3b4107bc83243ec036383a723895d4fa&di=u3163270&dri=0&dis=0&dai=7&ps=2053x73&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585904870766&ti=selenium%2BJava%E7%94%A8%E5%8F%8C%E5%87%BB%E4%BA%8B%E4%BB%B6%E5%86%8Dclear%E6%B8%85%E9%99%A4%E8%BE%93%E5%85%A5%E6%A1%86_Java_%E4%B9%8B%E7%89%991995%E7%9A%84%E5%8D%9A%E5%AE%A2-CSDN%E5%8D%9A%E5%AE%A2&ari=2&ver=0401&dbv=0&drs=1&pcs=1583x764&pss=1583x5613&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1585904870&prot=2&rw=764&ltu=https%3A%2F%2Fblog.csdn.net%2Fsun_hm%2Farticle%2Fdetails%2F102630039&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DeJcun_X3zHw4NKcmDOBcScJzUrsdVo16lcIJzhU5hpbPwZ33lM6L4gkczNoWpzfwgj2MLyZWw5kKUAb6gA6x7K%26wd%3D%26eqid%3Dc0ec74be00068a10000000045e86fce2&lcr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DeJcun_X3zHw4NKcmDOBcScJzUrsdVo16lcIJzhU5hpbPwZ33lM6L4gkczNoWpzfwgj2MLyZWw5kKUAb6gA6x7K%26wd%3D%26eqid%3Dc0ec74be00068a10000000045e86fce2&ecd=1&uc=1600x860&pis=-1x-1&sr=1600x900&tcn=1585904871&qn=5f8c69bf224ea992&tt=1585904870754.67.68.68, line 137: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/acwm?conwid=300&conhei=250&rdid=3163270&dc=3&exps=110011&psi=3b4107bc83243ec036383a723895d4fa&di=u3163270&dri=0&dis=0&dai=7&ps=2053x73&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585904870766&ti=selenium%2BJava%E7%94%A8%E5%8F%8C%E5%87%BB%E4%BA%8B%E4%BB%B6%E5%86%8Dclear%E6%B8%85%E9%99%A4%E8%BE%93%E5%85%A5%E6%A1%86_Java_%E4%B9%8B%E7%89%991995%E7%9A%84%E5%8D%9A%E5%AE%A2-CSDN%E5%8D%9A%E5%AE%A2&ari=2&ver=0401&dbv=0&drs=1&pcs=1583x764&pss=1583x5613&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1585904870&prot=2&rw=764&ltu=https%3A%2F%2Fblog.csdn.net%2Fsun_hm%2Farticle%2Fdetails%2F102630039&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DeJcun_X3zHw4NKcmDOBcScJzUrsdVo16lcIJzhU5hpbPwZ33lM6L4gkczNoWpzfwgj2MLyZWw5kKUAb6gA6x7K%26wd%3D%26eqid%3Dc0ec74be00068a10000000045e86fce2&lcr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DeJcun_X3zHw4NKcmDOBcScJzUrsdVo16lcIJzhU5hpbPwZ33lM6L4gkczNoWpzfwgj2MLyZWw5kKUAb6gA6x7K%26wd%3D%26eqid%3Dc0ec74be00068a10000000045e86fce2&ecd=1&uc=1600x860&pis=-1x-1&sr=1600x900&tcn=1585904871&qn=5f8c69bf224ea992&tt=1585904870754.67.68.68, line 137: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://pos.baidu.com/jcfm?conwid=300&conhei=250&rdid=3163270&dc=3&exps=110011&psi=5068676e6400dc6b52fefa364ced2bb2&di=u3163270&dri=0&dis=0&dai=7&ps=1930x73&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585905272748&ti=selenium%20%E6%80%8E%E6%A0%B7%E6%B8%85%E9%99%A4%E6%96%87%E6%9C%AC%E6%A1%86%E4%B8%AD%E8%BE%93%E5%85%A5%E7%9A%84%E5%86%85%E5%AE%B9%20input_Python_v791106444%E7%9A%84%E5%8D%9A%E5%AE%A2-CSDN%E5%8D%9A%E5%AE%A2&ari=2&ver=0401&dbv=0&drs=1&pcs=1583x764&pss=1583x4568&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1585905272&prot=2&rw=764&ltu=https%3A%2F%2Fblog.csdn.net%2Fv791106444%2Farticle%2Fdetails%2F90905916&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3D1tT3Kj5-YjrhgkAD6318RtkVM5Jtw6S_C-FOU47Mtc3x85e34Ji1L1D_Y4PX7fO5VJEw8_WcHXG2PHFs7ncDbjU4dPgOh6nLDrxQI3T7biK%26wd%3D%26eqid%3Da2f7ebbb000c90ae000000045e86fe33&lcr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3D1tT3Kj5-YjrhgkAD6318RtkVM5Jtw6S_C-FOU47Mtc3x85e34Ji1L1D_Y4PX7fO5VJEw8_WcHXG2PHFs7ncDbjU4dPgOh6nLDrxQI3T7biK%26wd%3D%26eqid%3Da2f7ebbb000c90ae000000045e86fe33&ecd=1&uc=1600x860&pis=-1x-1&sr=1600x900&tcn=1585905273&qn=5f8c69bf224ea992&tt=1585905272736.74.74.74, line 137: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/jcfm?conwid=300&conhei=250&rdid=3163270&dc=3&exps=110011&psi=5068676e6400dc6b52fefa364ced2bb2&di=u3163270&dri=0&dis=0&dai=7&ps=1930x73&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585905272748&ti=selenium%20%E6%80%8E%E6%A0%B7%E6%B8%85%E9%99%A4%E6%96%87%E6%9C%AC%E6%A1%86%E4%B8%AD%E8%BE%93%E5%85%A5%E7%9A%84%E5%86%85%E5%AE%B9%20input_Python_v791106444%E7%9A%84%E5%8D%9A%E5%AE%A2-CSDN%E5%8D%9A%E5%AE%A2&ari=2&ver=0401&dbv=0&drs=1&pcs=1583x764&pss=1583x4568&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1585905272&prot=2&rw=764&ltu=https%3A%2F%2Fblog.csdn.net%2Fv791106444%2Farticle%2Fdetails%2F90905916&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3D1tT3Kj5-YjrhgkAD6318RtkVM5Jtw6S_C-FOU47Mtc3x85e34Ji1L1D_Y4PX7fO5VJEw8_WcHXG2PHFs7ncDbjU4dPgOh6nLDrxQI3T7biK%26wd%3D%26eqid%3Da2f7ebbb000c90ae000000045e86fe33&lcr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3D1tT3Kj5-YjrhgkAD6318RtkVM5Jtw6S_C-FOU47Mtc3x85e34Ji1L1D_Y4PX7fO5VJEw8_WcHXG2PHFs7ncDbjU4dPgOh6nLDrxQI3T7biK%26wd%3D%26eqid%3Da2f7ebbb000c90ae000000045e86fe33&ecd=1&uc=1600x860&pis=-1x-1&sr=1600x900&tcn=1585905273&qn=5f8c69bf224ea992&tt=1585905272736.74.74.74, line 137: unreachable code after return statement
+JavaScript warning: https://www.py.cn/static/ueditor/ueditor.user.all.js, line 23936: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/ycgm?conwid=300&conhei=250&rdid=3163270&dc=3&exps=110011&psi=d5287edd1281c3f8d2448fa3b0d1077b&di=u3163270&dri=0&dis=0&dai=6&ps=2279x73&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585905536446&ti=selenium%20WebDriver%20%E6%B8%85%E7%A9%BAinput%E7%9A%84%E6%96%B9%E5%BC%8F_Python_%E4%B8%80%E5%B0%8F%E5%B9%B3%E6%B0%91-CSDN%E5%8D%9A%E5%AE%A2&ari=2&ver=0401&dbv=0&drs=1&pcs=1583x764&pss=1583x5013&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1585905536&prot=2&rw=764&ltu=https%3A%2F%2Fblog.csdn.net%2Fboer521314%2Farticle%2Fdetails%2F41442363&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3Dm2SiXw3bHBU0EDVqZewerucvKrhRBolaod_Urg-LSEeXiZm4LYHMNdxcqN77aSjKoIZ0Jk8thJ8ugGTf6ksipxRUv3H5IowPct5MuqXEOhO%26wd%3D%26eqid%3De04eadea00086578000000045e86ff63&lcr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3Dm2SiXw3bHBU0EDVqZewerucvKrhRBolaod_Urg-LSEeXiZm4LYHMNdxcqN77aSjKoIZ0Jk8thJ8ugGTf6ksipxRUv3H5IowPct5MuqXEOhO%26wd%3D%26eqid%3De04eadea00086578000000045e86ff63&ecd=1&uc=1600x860&pis=-1x-1&sr=1600x900&tcn=1585905537&qn=5f8c69bf224ea992&tt=1585905536429.75.76.76, line 137: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/ycgm?conwid=300&conhei=250&rdid=3163270&dc=3&exps=110011&psi=d5287edd1281c3f8d2448fa3b0d1077b&di=u3163270&dri=0&dis=0&dai=6&ps=2279x73&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585905536446&ti=selenium%20WebDriver%20%E6%B8%85%E7%A9%BAinput%E7%9A%84%E6%96%B9%E5%BC%8F_Python_%E4%B8%80%E5%B0%8F%E5%B9%B3%E6%B0%91-CSDN%E5%8D%9A%E5%AE%A2&ari=2&ver=0401&dbv=0&drs=1&pcs=1583x764&pss=1583x5013&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1585905536&prot=2&rw=764&ltu=https%3A%2F%2Fblog.csdn.net%2Fboer521314%2Farticle%2Fdetails%2F41442363&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3Dm2SiXw3bHBU0EDVqZewerucvKrhRBolaod_Urg-LSEeXiZm4LYHMNdxcqN77aSjKoIZ0Jk8thJ8ugGTf6ksipxRUv3H5IowPct5MuqXEOhO%26wd%3D%26eqid%3De04eadea00086578000000045e86ff63&lcr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3Dm2SiXw3bHBU0EDVqZewerucvKrhRBolaod_Urg-LSEeXiZm4LYHMNdxcqN77aSjKoIZ0Jk8thJ8ugGTf6ksipxRUv3H5IowPct5MuqXEOhO%26wd%3D%26eqid%3De04eadea00086578000000045e86ff63&ecd=1&uc=1600x860&pis=-1x-1&sr=1600x900&tcn=1585905537&qn=5f8c69bf224ea992&tt=1585905536429.75.76.76, line 137: unreachable code after return statement
+JavaScript error: https://csdnimg.cn/public/sandalstrap/1.4/js/sandalstrap.min.js, line 1: TypeError: r.target.parentNode is null
+JavaScript warning: https://pos.baidu.com/ycjm?conwid=300&conhei=250&rdid=3163270&dc=3&exps=110011&psi=9a4d980c754d2bb18156552e93a9c307&di=u3163270&dri=0&dis=0&dai=7&ps=1930x227&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585905583956&ti=selenium%20%E6%80%8E%E6%A0%B7%E6%B8%85%E9%99%A4%E6%96%87%E6%9C%AC%E6%A1%86%E4%B8%AD%E8%BE%93%E5%85%A5%E7%9A%84%E5%86%85%E5%AE%B9%20input_Python_v791106444%E7%9A%84%E5%8D%9A%E5%AE%A2-CSDN%E5%8D%9A%E5%AE%A2&ari=2&ver=0401&dbv=0&drs=1&pcs=1583x764&pss=1583x4568&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1585905584&prot=2&rw=764&ltu=https%3A%2F%2Fblog.csdn.net%2Fv791106444%2Farticle%2Fdetails%2F90905916%3Fdepth_1-utm_source%3Ddistribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1%26utm_source%3Ddistribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1&ltr=https%3A%2F%2Fblog.csdn.net%2Fboer521314%2Farticle%2Fdetails%2F41442363&lcr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3D1tT3Kj5-YjrhgkAD6318RtkVM5Jtw6S_C-FOU47Mtc3x85e34Ji1L1D_Y4PX7fO5VJEw8_WcHXG2PHFs7ncDbjU4dPgOh6nLDrxQI3T7biK%26wd%3D%26eqid%3Da2f7ebbb000c90ae000000045e86fe33&ecd=1&uc=1600x860&pis=-1x-1&sr=1600x900&tcn=1585905584&qn=5f8c69bf224ea992&tt=1585905583933.89.89.91, line 137: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/ycjm?conwid=300&conhei=250&rdid=3163270&dc=3&exps=110011&psi=9a4d980c754d2bb18156552e93a9c307&di=u3163270&dri=0&dis=0&dai=7&ps=1930x227&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585905583956&ti=selenium%20%E6%80%8E%E6%A0%B7%E6%B8%85%E9%99%A4%E6%96%87%E6%9C%AC%E6%A1%86%E4%B8%AD%E8%BE%93%E5%85%A5%E7%9A%84%E5%86%85%E5%AE%B9%20input_Python_v791106444%E7%9A%84%E5%8D%9A%E5%AE%A2-CSDN%E5%8D%9A%E5%AE%A2&ari=2&ver=0401&dbv=0&drs=1&pcs=1583x764&pss=1583x4568&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1585905584&prot=2&rw=764&ltu=https%3A%2F%2Fblog.csdn.net%2Fv791106444%2Farticle%2Fdetails%2F90905916%3Fdepth_1-utm_source%3Ddistribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1%26utm_source%3Ddistribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1&ltr=https%3A%2F%2Fblog.csdn.net%2Fboer521314%2Farticle%2Fdetails%2F41442363&lcr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3D1tT3Kj5-YjrhgkAD6318RtkVM5Jtw6S_C-FOU47Mtc3x85e34Ji1L1D_Y4PX7fO5VJEw8_WcHXG2PHFs7ncDbjU4dPgOh6nLDrxQI3T7biK%26wd%3D%26eqid%3Da2f7ebbb000c90ae000000045e86fe33&ecd=1&uc=1600x860&pis=-1x-1&sr=1600x900&tcn=1585905584&qn=5f8c69bf224ea992&tt=1585905583933.89.89.91, line 137: unreachable code after return statement
+JavaScript error: http://znsv.baidu.com/customer_search/api/js?sid=8166352449904245503&plate_url=http%3A%2F%2Fwww.mamicode.com%2Finfo-detail-2778329.html&t=440530, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://www.mamicode.com/js/mamicodejs.js, line 77: TypeError: xt_obj is null
+JavaScript warning: https://bbs.csdn.net/topics/392556155, line 445: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/dcgm?conwid=300&conhei=250&rdid=3163270&dc=3&exps=110011&psi=d14fdaf5b4aa6f4095cf52c8989e8522&di=u3163270&dri=0&dis=0&dai=7&ps=2349x73&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585905977892&ti=selenium%20webdriver%20%E8%8E%B7%E5%8F%96input%E8%BE%93%E5%85%A5%E6%A1%86%E4%B8%8A%E7%9A%84value%E5%80%BC_Python_iSelenium-CSDN%E5%8D%9A&ari=2&ver=0401&dbv=0&drs=1&pcs=1583x764&pss=1583x5188&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1585905977&prot=2&rw=764&ltu=https%3A%2F%2Fblog.csdn.net%2Fxiaoguanyusb%2Farticle%2Fdetails%2F80520180&ltr=https%3A%2F%2Fbbs.csdn.net%2Ftopics%2F392556155&ecd=1&uc=1600x860&pis=-1x-1&sr=1600x900&tcn=1585905978&qn=5f8c69bf224ea992&tt=1585905977878.69.70.70, line 137: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/dcgm?conwid=300&conhei=250&rdid=3163270&dc=3&exps=110011&psi=d14fdaf5b4aa6f4095cf52c8989e8522&di=u3163270&dri=0&dis=0&dai=7&ps=2349x73&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585905977892&ti=selenium%20webdriver%20%E8%8E%B7%E5%8F%96input%E8%BE%93%E5%85%A5%E6%A1%86%E4%B8%8A%E7%9A%84value%E5%80%BC_Python_iSelenium-CSDN%E5%8D%9A&ari=2&ver=0401&dbv=0&drs=1&pcs=1583x764&pss=1583x5188&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1585905977&prot=2&rw=764&ltu=https%3A%2F%2Fblog.csdn.net%2Fxiaoguanyusb%2Farticle%2Fdetails%2F80520180&ltr=https%3A%2F%2Fbbs.csdn.net%2Ftopics%2F392556155&ecd=1&uc=1600x860&pis=-1x-1&sr=1600x900&tcn=1585905978&qn=5f8c69bf224ea992&tt=1585905977878.69.70.70, line 137: unreachable code after return statement
+1585905989181	Marionette	INFO	Stopped listening on port 30030
+Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585903940484	Marionette	INFO	Listening on port 31711
+1585903940821	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370134,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1585903949162	Marionette	INFO	Stopped listening on port 31711
+1585903956471	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.ugcpk77EYFZ0"
+1585903957650	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585903958110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585903958110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585903958110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585903958110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585903961323	Marionette	INFO	Listening on port 31796
+1585903961545	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585904264535	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.foo5kLZCeALc"
+1585904265799	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585904266245	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585904266245	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585904266245	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585904266245	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585904269641	Marionette	INFO	Listening on port 32195
+1585904270039	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370134,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1585904281941	Marionette	INFO	Stopped listening on port 32195
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585904422700	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.y25CrbgED6J3"
+1585904423857	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585904424256	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585904424256	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585904424256	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585904424256	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585904427494	Marionette	INFO	Listening on port 32436
+1585904427628	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585904538274	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.uip1QImpoA4N"
+1585904539442	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585904539888	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585904539889	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585904539889	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585904539889	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585904543679	Marionette	INFO	Listening on port 32630
+1585904543749	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585904566022	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370134,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1585904585255	Marionette	INFO	Stopped listening on port 32630
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+tworkStatus
+1585904582965	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585904582965	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585904582966	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585904582966	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585904586592	Marionette	INFO	Listening on port 32744
+1585904586949	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585904650124	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.whqBDHcSflfN"
+1585904651330	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585904651750	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585904651750	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585904651750	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585904651750	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585904655944	Marionette	INFO	Listening on port 32891
+1585904656273	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370134,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1585904703480	Marionette	INFO	Stopped listening on port 32891
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585904701893	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585904701893	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585904701894	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585904701894	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585904705286	Marionette	INFO	Listening on port 33015
+1585904705651	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://127.0.0.1:8080"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://127.0.0.1:8080"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://127.0.0.1:8080"
+1585905045010	Marionette	INFO	Stopped listening on port 33015
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x5D0005,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+ension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585904985956	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585904985957	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585904985957	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585904985957	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585904989869	Marionette	INFO	Listening on port 33581
+1585904989888	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585904991910	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:850:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1585904992173	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1585904992177	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1585904992181	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1585904992186	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370134,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1585905043885	Marionette	INFO	Stopped listening on port 33581
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585905064655	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.tH1sNxII9kgT"
+1585905065832	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585905066286	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585905066286	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585905066286	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585905066286	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585905069756	Marionette	INFO	Listening on port 33739
+1585905070175	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585905071720	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:850:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1585905071981	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1585905071987	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1585905071989	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1585905071993	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://127.0.0.1:8080"
+1585905672247	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.7PheHwH4jiIt"
+1585905673434	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585905673904	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585905673904	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585905673905	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585905673905	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585905677360	Marionette	INFO	Listening on port 34698
+1585905677765	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 1532, Gecko_IOThread] WARNING: file z:/task_1583751780/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1585906087032	Marionette	INFO	Stopped listening on port 34698
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ission: networkStatus
+1585906000056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585906000057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585906000057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585906000057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585906004172	Marionette	INFO	Listening on port 35278
+1585906004470	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585906088497	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.VNg4hUhwR1pk"
+1585906089605	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585906090001	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585906090001	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585906090001	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585906090001	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585906093267	Marionette	INFO	Listening on port 35454
+1585906093445	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585906130178	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.kL7PPgnvjKRq"
+1585906131328	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585906131722	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585906131722	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585906131722	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585906131723	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585906134826	Marionette	INFO	Listening on port 35562
+1585906135224	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://home.firefoxchina.cn/2019/js/mozMainScript-min.js?v=20191129, line 1: unreachable code after return statement
+JavaScript warning: https://home.firefoxchina.cn/2019/js/mozMainScript-min.js?v=20191129, line 1: unreachable code after return statement
+JavaScript warning: https://static.runoob.com/assets/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1585910694898	Marionette	INFO	Stopped listening on port 35562
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Invalid extension permission: telemetry
+1585906187654	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585906187654	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585906191067	Marionette	INFO	Listening on port 35693
+1585906191191	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585906196612	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1585906254857	Marionette	INFO	Stopped listening on port 35693
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ebextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585906216247	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585906216247	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585906216247	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585906216248	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585906220171	Marionette	INFO	Listening on port 35796
+1585906220247	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370134,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1585906254345	Marionette	INFO	Stopped listening on port 35796
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1585991333231	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.ECXIr3FUI7al"
+1585991335943	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585991336354	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585991336354	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585991336354	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585991336354	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585991339620	Marionette	INFO	Listening on port 59239
+1585991339798	Marionette	WARN	TLS certificate errors will be ignored for this session
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:518:11
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:607:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+Line: 518, column: 11
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 518))
+1585992548989	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Warning processing permissions: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["find"], be one of ["history"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["topSites"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["captivePortal"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["normandyAddonStudy"], be one of ["pkcs11"], be one of ["sessions"], be one of ["urlbar"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["geckoProfiler"], be one of ["activityLog"], be one of ["management"], be one of ["networkStatus"], be one of ["privacy"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1585992548991	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Warning processing version_name: An unexpected property was found in the WebExtension manifest.
+1585992548991	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Warning processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1585992555458	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Warning processing permissions: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["find"], be one of ["history"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["topSites"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["captivePortal"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["normandyAddonStudy"], be one of ["pkcs11"], be one of ["sessions"], be one of ["urlbar"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["geckoProfiler"], be one of ["activityLog"], be one of ["management"], be one of ["networkStatus"], be one of ["privacy"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1585992555460	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Warning processing version_name: An unexpected property was found in the WebExtension manifest.
+1585992555460	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Warning processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1585992570383	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Warning processing permissions: Error processing permissions.8: Value "debugger" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["find"], be one of ["history"], be one of ["menus.overrideContext"], be one of ["search"], be one of ["activeTab", "tabs", "tabHide"], be one of ["topSites"], be one of ["browserSettings"], be one of ["cookies"], be one of ["downloads", "downloads.open"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["captivePortal"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["normandyAddonStudy"], be one of ["pkcs11"], be one of ["sessions"], be one of ["urlbar"], be one of ["contextualIdentities"], be one of ["dns"], be one of ["geckoProfiler"], be one of ["activityLog"], be one of ["management"], be one of ["networkStatus"], be one of ["privacy"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["telemetry"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], must either [match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/], or match the pattern /^resource:\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$|^about:/]
+1585992570385	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Warning processing version_name: An unexpected property was found in the WebExtension manifest.
+1585992570385	addons.webextension.{a6fd85ed-e919-4a43-a5af-8da18bda539f}	WARN	Loading extension '{a6fd85ed-e919-4a43-a5af-8da18bda539f}': Reading manifest: Warning processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+JavaScript error: moz-extension://8f3884c5-4dc4-4e70-8a82-dfe5979de4b8/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "moz-extension://8f3884c5-4dc4-4e70-8a82-dfe5979de4b8"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: "getApplied@resource://devtools/server/actors/styles.js:587:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: "getApplied@resource://devtools/server/actors/styles.js:587:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (unknownError): node is null", "resource://devtools/shared/protocol/Front.js", 276))
+JavaScript warning: https://home.firefoxchina.cn/2019/js/mozMainScript-min.js?v=20191129, line 1: unreachable code after return statement
+JavaScript warning: https://home.firefoxchina.cn/2019/js/mozMainScript-min.js?v=20191129, line 1: unreachable code after return statement
+JavaScript warning: https://static.runoob.com/assets/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1586003851201	Marionette	INFO	Stopped listening on port 59239
